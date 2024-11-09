@@ -27,4 +27,4 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 This project uses [Materialui](https://mui.com/material-ui/getting-started/) check out the docs
 you can edit the components in the components directory 
 
-Have fun 
+
