@@ -1,8 +1,9 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
+Styled with  [Material Ui](https://mui.com/material-ui/getting-started/installation/) Check out the docs
 ## Getting Started
 
-First, run the development server:
+Npm install for installing all the dependencies 
+run the development server:
 
 ```bash
 npm run dev
