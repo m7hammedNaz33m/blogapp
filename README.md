@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-Styled with  [Material Ui](https://mui.com/material-ui/getting-started/installation/) Check out the docs
+
 
 ## About the project
 BlogApp is a simple blog application , the application is using a public api which retrieves public post and showcased using material ui as a card component , each card has a title , body and a link which leads to the 
