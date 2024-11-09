@@ -79,8 +79,8 @@ const { id } = await params
             <Grid container spacing={2} 
             >
                {
-                comments.map(x=>(
-                    <Grid size={{xs:12,sm:6}} sx={{
+                comments.map((x,id)=>(
+                    <Grid  key={id} size={{xs:12,sm:6}} sx={{
                         background:"transparent",
                         color:"white",
                         border:"1px solid #ffffff3d",

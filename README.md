@@ -1,9 +1,15 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 Styled with  [Material Ui](https://mui.com/material-ui/getting-started/installation/) Check out the docs
-## Getting Started
 
-Npm install for installing all the dependencies 
-run the development server:
+## About the project
+BlogApp is a simple blog application , the application is using a public api which retrieves public post and showcased using material ui as a card component , each card has a title , body and a link which leads to the 
+inner page , innerpage has list of comments posted which is show cased in a grid layout .
+
+
+## Getting Started
+To get started lets first install the npm 
+which will install all the dependencies.
+Once its done run the development server:
 
 ```bash
 npm run dev
@@ -19,19 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+This project uses [Materialui](https://mui.com/material-ui/getting-started/) check out the docs
+you can edit the components in the components directory 
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Have fun 
